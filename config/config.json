@@ -1,0 +1,7 @@
+{
+  "max_length": 128,
+  "train_time_data_size": -1,
+  "batch_size": 64,
+  "use_all_data": true,
+  "img_augmentation": 2
+}
